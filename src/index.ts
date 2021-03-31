@@ -24,7 +24,7 @@ interface Verse {
   surah_id: number;
   juz_id: number;
   page_number: number;
-  tafsir: Tafsir
+  tafsir: Tafsir;
 }
 
 interface Tafsir {
@@ -35,11 +35,18 @@ interface Tafsir {
 class QuranKemenag {
   constructor() {}
 
-  public async getListSurah(): Promise<Surah[]> {
-    return (quranJSON as any[]).map((surah) => {
-      delete surah.verses;
-      return surah;
-    });
+  public async getListSurah(keyword: string = ""): Promise<Surah[]> {
+    return (quranJSON as any[])
+      .filter((surah) => {
+        return (
+          surah.surah_name.toLowerCase().includes(keyword.toLowerCase()) ||
+          surah.surah_name_bahasa.toLowerCase().includes(keyword.toLowerCase())
+        );
+      })
+      .map((surah) => {
+        delete surah.verses;
+        return surah;
+      });
   }
 
   public async getSurah(
