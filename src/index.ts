@@ -32,7 +32,7 @@ interface Tafsir {
   long: string;
 }
 
-export class QuranKemenag {
+class QuranKemenag {
   constructor() {}
 
   public async getListSurah(): Promise<Surah[]> {
@@ -76,5 +76,4 @@ export class QuranKemenag {
   }
 }
 
-const quran = new QuranKemenag();
-quran.getSurah(1, { include_verse: true, verses_limit: 2, verses_offset: 1 }).then(console.log);
+export = QuranKemenag;
