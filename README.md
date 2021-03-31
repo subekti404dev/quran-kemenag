@@ -13,8 +13,8 @@ yarn add quran-kemenag
 const QuranKemenag = require("quran-kemenag");
 const quran = new QuranKemenag();
 
-// get list surat
-quran.getAllSurat()
+// Get List of Surah
+quran.getListSurah()
     .then((data) => {
         // data handling here
     })
@@ -23,53 +23,21 @@ quran.getAllSurat()
     });
 
 
-// get surat by limit and offset
-quran.getSurat(
-        10, // limit
-        0, // offset
+// Get Surah Data
+const options = { 
+    include_verse: true,
+    verses_limit: 2, 
+    verses_offset: 1
+}
+quran.getSurah(
+    1, // surah id or surah number 
+    options
     )
     .then((data) => {
         // data handling here
-    })
-    .catch((error) => {
-        // error handling here
-    })
-
-// get list ayat
-quran.getAllAyat(
-        1 // surat_id
-    )
-    .then((data) => {
-        // data handling here
-    })
-    .catch((error) => {
-        // error handling here
     });
-
-
-// get ayat by limit and offset
-quran.getAyat(
-        2, // surat_id
-        10, // limit
-        0, // offset
-    )
-    .then((data) => {
-        // data handling here
-    })
     .catch((error) => {
-        // error handling here
-    })
-
-
-// get tafsir by ayat
-quran.getTafsir(
-        2, // ayat_id
-    )
-    .then((data) => {
-        // data handling here
-    })
-    .catch((error) => {
-        // error handling here
+        // error handing here
     })
 
 ```
