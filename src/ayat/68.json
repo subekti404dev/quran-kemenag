@@ -1,0 +1,522 @@
+[
+  {
+    "ayat_id": 5272,
+    "ayat_number": 1,
+    "ayat_arabic": "نۤ ۚوَالْقَلَمِ وَمَا يَسْطُرُوْنَۙ",
+    "ayat_bahasa": "Nun. Demi pena dan apa yang mereka tuliskan, ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068001.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5273,
+    "ayat_number": 2,
+    "ayat_arabic": "مَآ اَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُوْنٍ ",
+    "ayat_bahasa": "dengan karunia Tuhanmu engkau (Muhammad) bukanlah orang gila. ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068002.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5274,
+    "ayat_number": 3,
+    "ayat_arabic": "وَاِنَّ لَكَ لَاَجْرًا غَيْرَ مَمْنُوْنٍۚ",
+    "ayat_bahasa": "Dan sesungguhnya engkau pasti mendapat pahala yang besar yang tidak putus-putusnya. ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068003.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5275,
+    "ayat_number": 4,
+    "ayat_arabic": "وَاِنَّكَ لَعَلٰى خُلُقٍ عَظِيْمٍ ",
+    "ayat_bahasa": "Dan sesungguhnya engkau benar-benar berbudi pekerti yang luhur. ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068004.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5276,
+    "ayat_number": 5,
+    "ayat_arabic": "فَسَتُبْصِرُ وَيُبْصِرُوْنَۙ",
+    "ayat_bahasa": "Maka kelak engkau akan melihat dan mereka (orang-orang kafir) pun akan melihat, ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068005.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5277,
+    "ayat_number": 6,
+    "ayat_arabic": "بِاَيِّىكُمُ الْمَفْتُوْنُ ",
+    "ayat_bahasa": "siapa di antara kamu yang gila? ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068006.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5278,
+    "ayat_number": 7,
+    "ayat_arabic": "اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيْلِهٖۖ وَهُوَ اَعْلَمُ بِالْمُهْتَدِيْنَ ",
+    "ayat_bahasa": "Sungguh, Tuhanmu, Dialah yang paling mengetahui siapa yang sesat dari jalan-Nya; dan Dialah yang paling mengetahui siapa orang yang mendapat petunjuk. ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068007.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5279,
+    "ayat_number": 8,
+    "ayat_arabic": "فَلَا تُطِعِ الْمُكَذِّبِيْنَ ",
+    "ayat_bahasa": "Maka janganlah engkau patuhi orang-orang yang mendustakan (ayat-ayat Allah).",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068008.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5280,
+    "ayat_number": 9,
+    "ayat_arabic": "وَدُّوْا لَوْ تُدْهِنُ فَيُدْهِنُوْنَۚ",
+    "ayat_bahasa": "Mereka menginginkan agar engkau bersikap lunak maka mereka bersikap lunak (pula). ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068009.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5281,
+    "ayat_number": 10,
+    "ayat_arabic": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِيْنٍۙ",
+    "ayat_bahasa": "Dan janganlah engkau patuhi setiap orang yang suka bersumpah dan suka menghina,",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068010.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5282,
+    "ayat_number": 11,
+    "ayat_arabic": "هَمَّازٍ مَّشَّاۤءٍۢ بِنَمِيْمٍۙ",
+    "ayat_bahasa": "suka mencela, yang kian ke mari menyebarkan fitnah, ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068011.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5283,
+    "ayat_number": 12,
+    "ayat_arabic": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ اَثِيْمٍۙ",
+    "ayat_bahasa": "yang merintangi segala yang baik, yang melampaui batas dan banyak dosa, ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068012.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5284,
+    "ayat_number": 13,
+    "ayat_arabic": "عُتُلٍّۢ بَعْدَ ذٰلِكَ زَنِيْمٍۙ",
+    "ayat_bahasa": "yang bertabiat kasar, selain itu juga terkenal kejahatannya,",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068013.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5285,
+    "ayat_number": 14,
+    "ayat_arabic": "اَنْ كَانَ ذَا مَالٍ وَّبَنِيْنَۗ",
+    "ayat_bahasa": "karena dia kaya dan banyak anak.",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068014.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5286,
+    "ayat_number": 15,
+    "ayat_arabic": "اِذَا تُتْلٰى عَلَيْهِ اٰيٰتُنَا قَالَ اَسَاطِيْرُ الْاَوَّلِيْنَۗ",
+    "ayat_bahasa": "Apabila ayat-ayat Kami dibacakan kepadanya, dia berkata, “(Ini adalah) dongeng-dongeng orang dahulu.” ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068015.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 564
+  },
+  {
+    "ayat_id": 5287,
+    "ayat_number": 16,
+    "ayat_arabic": "سَنَسِمُهٗ عَلَى الْخُرْطُوْمِ ",
+    "ayat_bahasa": "Kelak dia akan Kami beri tanda pada belalai(nya). ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068016.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5288,
+    "ayat_number": 17,
+    "ayat_arabic": "اِنَّا بَلَوْنٰهُمْ كَمَا بَلَوْنَآ اَصْحٰبَ الْجَنَّةِۚ اِذْ اَقْسَمُوْا لَيَصْرِمُنَّهَا مُصْبِحِيْنَۙ",
+    "ayat_bahasa": "Sungguh, Kami telah menguji mereka (orang musyrik Mekah) sebagaimana Kami telah menguji pemilik-pemilik kebun, ketika mereka bersumpah pasti akan memetik (hasil)nya pada pagi hari,",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068017.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5289,
+    "ayat_number": 18,
+    "ayat_arabic": "وَلَا يَسْتَثْنُوْنَ ",
+    "ayat_bahasa": "tetapi mereka tidak menyisihkan (dengan mengucapkan, “Insya Allah”).",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068018.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5290,
+    "ayat_number": 19,
+    "ayat_arabic": "فَطَافَ عَلَيْهَا طَاۤىِٕفٌ مِّنْ رَّبِّكَ وَهُمْ نَاۤىِٕمُوْنَ ",
+    "ayat_bahasa": "Lalu kebun itu ditimpa bencana (yang datang) dari Tuhanmu ketika mereka sedang tidur.",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068019.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5291,
+    "ayat_number": 20,
+    "ayat_arabic": "فَاَصْبَحَتْ كَالصَّرِيْمِۙ",
+    "ayat_bahasa": "Maka jadilah kebun itu hitam seperti malam yang gelap gulita,",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068020.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5292,
+    "ayat_number": 21,
+    "ayat_arabic": "فَتَنَادَوْا مُصْبِحِيْنَۙ",
+    "ayat_bahasa": "lalu pada pagi hari mereka saling memanggil.",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068021.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5293,
+    "ayat_number": 22,
+    "ayat_arabic": "اَنِ اغْدُوْا عَلٰى حَرْثِكُمْ اِنْ كُنْتُمْ صَارِمِيْنَ ",
+    "ayat_bahasa": "”Pergilah pagi-pagi ke kebunmu jika kamu hendak memetik hasil.” ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068022.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5294,
+    "ayat_number": 23,
+    "ayat_arabic": "فَانْطَلَقُوْا وَهُمْ يَتَخَافَتُوْنَۙ",
+    "ayat_bahasa": "Maka mereka pun berangkat sambil berbisik-bisik. ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068023.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5295,
+    "ayat_number": 24,
+    "ayat_arabic": "اَنْ لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُمْ مِّسْكِيْنٌۙ",
+    "ayat_bahasa": "”Pada hari ini jangan sampai ada orang miskin masuk ke dalam kebunmu.” ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068024.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5296,
+    "ayat_number": 25,
+    "ayat_arabic": "وَّغَدَوْا عَلٰى حَرْدٍ قَادِرِيْنَ ",
+    "ayat_bahasa": "Dan berangkatlah mereka pada pagi hari dengan niat menghalangi (orang-orang miskin) padahal mereka mampu (menolongnya). ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068025.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5297,
+    "ayat_number": 26,
+    "ayat_arabic": "فَلَمَّا رَاَوْهَا قَالُوْٓا اِنَّا لَضَاۤلُّوْنَۙ",
+    "ayat_bahasa": "Maka ketika mereka melihat kebun itu, mereka berkata, “Sungguh, kita ini benar-benar orang-orang yang sesat,",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068026.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5298,
+    "ayat_number": 27,
+    "ayat_arabic": "بَلْ نَحْنُ مَحْرُوْمُوْنَ ",
+    "ayat_bahasa": "bahkan kita tidak memperoleh apa pun,”",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068027.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5299,
+    "ayat_number": 28,
+    "ayat_arabic": "قَالَ اَوْسَطُهُمْ اَلَمْ اَقُلْ لَّكُمْ لَوْلَا تُسَبِّحُوْنَ ",
+    "ayat_bahasa": "berkatalah seorang yang paling bijak di antara mereka, “Bukankah aku telah mengatakan kepadamu, mengapa kamu tidak bertasbih (kepada Tuhanmu).”",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068028.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5300,
+    "ayat_number": 29,
+    "ayat_arabic": "قَالُوْا سُبْحٰنَ رَبِّنَآ اِنَّا كُنَّا ظٰلِمِيْنَ ",
+    "ayat_bahasa": "Mereka mengucapkan, “Mahasuci Tuhan kami, sungguh, kami adalah orang-orang yang zalim.” ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068029.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5301,
+    "ayat_number": 30,
+    "ayat_arabic": "فَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَّتَلَاوَمُوْنَ ",
+    "ayat_bahasa": "Lalu mereka saling berhadapan dan saling menyalahkan.",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068030.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5302,
+    "ayat_number": 31,
+    "ayat_arabic": "قَالُوْا يٰوَيْلَنَآ اِنَّا كُنَّا طٰغِيْنَ ",
+    "ayat_bahasa": "Mereka berkata, “Celaka kita! Sesungguhnya kita orang-orang yang melampaui batas. ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068031.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5303,
+    "ayat_number": 32,
+    "ayat_arabic": "عَسٰى رَبُّنَآ اَنْ يُّبْدِلَنَا خَيْرًا مِّنْهَآ اِنَّآ اِلٰى رَبِّنَا رَاغِبُوْنَ ",
+    "ayat_bahasa": "Mudah-mudahan Tuhan memberikan ganti kepada kita dengan (kebun) yang lebih baik daripada yang ini, sungguh, kita mengharapkan ampunan dari Tuhan kita.” ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068032.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5304,
+    "ayat_number": 33,
+    "ayat_arabic": "كَذٰلِكَ الْعَذَابُۗ وَلَعَذَابُ الْاٰخِرَةِ اَكْبَرُۘ لَوْ كَانُوْا يَعْلَمُوْنَ ࣖ ",
+    "ayat_bahasa": "Seperti itulah azab (di dunia). Dan sungguh, azab akhirat lebih besar se-kiranya mereka mengetahui.",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068033.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5305,
+    "ayat_number": 34,
+    "ayat_arabic": "اِنَّ لِلْمُتَّقِيْنَ عِنْدَ رَبِّهِمْ جَنّٰتِ النَّعِيْمِ ",
+    "ayat_bahasa": "Sungguh, bagi orang-orang yang bertakwa (disediakan) surga yang penuh kenikmatan di sisi Tuhannya.",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068034.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5306,
+    "ayat_number": 35,
+    "ayat_arabic": "اَفَنَجْعَلُ الْمُسْلِمِيْنَ كَالْمُجْرِمِيْنَۗ",
+    "ayat_bahasa": "Apakah patut Kami memperlakukan orang-orang Islam itu seperti orang-orang yang berdosa (orang kafir)?",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068035.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5307,
+    "ayat_number": 36,
+    "ayat_arabic": "مَا لَكُمْۗ  كَيْفَ تَحْكُمُوْنَۚ",
+    "ayat_bahasa": "Mengapa kamu (berbuat demikian)? Bagaimana kamu mengambil keputusan?",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068036.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5308,
+    "ayat_number": 37,
+    "ayat_arabic": "اَمْ لَكُمْ كِتٰبٌ فِيْهِ تَدْرُسُوْنَۙ",
+    "ayat_bahasa": "Atau apakah kamu mempunyai kitab (yang diturunkan Allah) yang kamu pelajari?  ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068037.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5309,
+    "ayat_number": 38,
+    "ayat_arabic": "اِنَّ لَكُمْ فِيْهِ لَمَا تَخَيَّرُوْنَۚ",
+    "ayat_bahasa": "sesungguhnya kamu dapat memilih apa saja yang ada di dalamnya.",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068038.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5310,
+    "ayat_number": 39,
+    "ayat_arabic": "اَمْ لَكُمْ اَيْمَانٌ عَلَيْنَا بَالِغَةٌ اِلٰى يَوْمِ الْقِيٰمَةِۙ اِنَّ لَكُمْ لَمَا تَحْكُمُوْنَۚ",
+    "ayat_bahasa": "Atau apakah kamu memperoleh (janji-janji yang diperkuat dengan) sumpah dari Kami, yang tetap berlaku sampai hari Kiamat; bahwa kamu dapat mengambil keputusan (sekehendakmu)? ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068039.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5311,
+    "ayat_number": 40,
+    "ayat_arabic": "سَلْهُمْ اَيُّهُمْ بِذٰلِكَ زَعِيْمٌۚ",
+    "ayat_bahasa": "Tanyakanlah kepada mereka, “Siapakah di antara mereka yang bertanggung jawab terhadap (keputusan yang diambil itu)?”",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068040.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5312,
+    "ayat_number": 41,
+    "ayat_arabic": "اَمْ لَهُمْ شُرَكَاۤءُۚ فَلْيَأْتُوْا بِشُرَكَاۤىِٕهِمْ اِنْ كَانُوْا صٰدِقِيْنَ ",
+    "ayat_bahasa": "Atau apakah mereka mempunyai sekutu-sekutu? Kalau begitu hendaklah mereka mendatangkan sekutu-sekutunya jika mereka orang-orang yang benar.",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068041.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5313,
+    "ayat_number": 42,
+    "ayat_arabic": "يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَّيُدْعَوْنَ اِلَى السُّجُوْدِ فَلَا يَسْتَطِيْعُوْنَۙ",
+    "ayat_bahasa": "(Ingatlah) pada hari ketika betis disingkapkan dan mereka diseru untuk bersujud; maka mereka tidak mampu,",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068042.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 565
+  },
+  {
+    "ayat_id": 5314,
+    "ayat_number": 43,
+    "ayat_arabic": "خَاشِعَةً اَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ  ۗوَقَدْ كَانُوْا يُدْعَوْنَ اِلَى السُّجُوْدِ وَهُمْ سَالِمُوْنَ ",
+    "ayat_bahasa": "pandangan mereka tertunduk ke bawah, diliputi kehinaan. Dan sungguh, dahulu (di dunia) mereka telah diseru untuk bersujud pada waktu mereka sehat (tetapi mereka tidak melakukan). ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068043.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 566
+  },
+  {
+    "ayat_id": 5315,
+    "ayat_number": 44,
+    "ayat_arabic": "فَذَرْنِيْ وَمَنْ يُّكَذِّبُ بِهٰذَا الْحَدِيْثِۗ سَنَسْتَدْرِجُهُمْ مِّنْ حَيْثُ لَا يَعْلَمُوْنَۙ",
+    "ayat_bahasa": "Maka serahkanlah kepada-Ku (urusannya) dan orang-orang yang mendustakan perkataan ini (Al-Qur'an). Kelak akan Kami hukum mereka berangsur-angsur dari arah yang tidak mereka ketahui, ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068044.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 566
+  },
+  {
+    "ayat_id": 5316,
+    "ayat_number": 45,
+    "ayat_arabic": "وَاُمْلِيْ لَهُمْۗ اِنَّ كَيْدِيْ مَتِيْنٌ ",
+    "ayat_bahasa": "dan Aku memberi tenggang waktu kepada mereka. Sungguh, rencana-Ku sangat teguh. ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068045.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 566
+  },
+  {
+    "ayat_id": 5317,
+    "ayat_number": 46,
+    "ayat_arabic": "اَمْ تَسْـَٔلُهُمْ اَجْرًا فَهُمْ مِّنْ مَّغْرَمٍ مُّثْقَلُوْنَۚ ",
+    "ayat_bahasa": "Ataukah engkau (Muhammad) meminta imbalan kepada mereka, sehingga mereka dibebani dengan utang?",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068046.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 566
+  },
+  {
+    "ayat_id": 5318,
+    "ayat_number": 47,
+    "ayat_arabic": "اَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُوْنَ ",
+    "ayat_bahasa": "Ataukah mereka mengetahui yang gaib, lalu mereka menuliskannya?",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068047.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 566
+  },
+  {
+    "ayat_id": 5319,
+    "ayat_number": 48,
+    "ayat_arabic": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُنْ كَصَاحِبِ الْحُوْتِۘ اِذْ نَادٰى وَهُوَ مَكْظُوْمٌۗ",
+    "ayat_bahasa": "Maka bersabarlah engkau (Muhammad) terhadap ketetapan Tuhanmu, dan janganlah engkau seperti (Yunus) orang yang berada dalam (perut) ikan ketika dia berdoa dengan hati sedih.",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068048.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 566
+  },
+  {
+    "ayat_id": 5320,
+    "ayat_number": 49,
+    "ayat_arabic": "لَوْلَآ اَنْ تَدَارَكَهٗ نِعْمَةٌ مِّنْ رَّبِّهٖ لَنُبِذَ بِالْعَرَاۤءِ وَهُوَ مَذْمُوْمٌ ",
+    "ayat_bahasa": "Sekiranya dia tidak segera mendapat nikmat dari Tuhannya, pastilah dia dicampakkan ke tanah tandus dalam keadaan tercela. ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068049.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 566
+  },
+  {
+    "ayat_id": 5321,
+    "ayat_number": 50,
+    "ayat_arabic": "فَاجْتَبٰىهُ رَبُّهٗ فَجَعَلَهٗ مِنَ الصّٰلِحِيْنَ ",
+    "ayat_bahasa": "Lalu Tuhannya memilihnya dan menjadikannya termasuk orang yang saleh. ",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068050.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 566
+  },
+  {
+    "ayat_id": 5322,
+    "ayat_number": 51,
+    "ayat_arabic": "وَاِنْ يَّكَادُ الَّذِيْنَ كَفَرُوْا لَيُزْلِقُوْنَكَ بِاَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُوْلُوْنَ اِنَّهٗ لَمَجْنُوْنٌ ۘ",
+    "ayat_bahasa": "Dan sungguh, orang-orang kafir itu hampir-hampir menggelincirkanmu dengan pandangan mata mereka, ketika mereka mendengar Al-Qur'an dan mereka berkata, “Dia (Muhammad) itu benar-benar orang gila.”",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068051.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 566
+  },
+  {
+    "ayat_id": 5323,
+    "ayat_number": 52,
+    "ayat_arabic": "وَمَا هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَ ࣖ ",
+    "ayat_bahasa": "Padahal (Al-Qur'an) itu tidak lain adalah peringatan bagi seluruh alam.",
+    "ayat_sound": "https://quran.kemenag.go.id/cmsq/source/s01/068052.mp3",
+    "surat_id": 68,
+    "juz_id": 29,
+    "page_number": 566
+  }
+]
