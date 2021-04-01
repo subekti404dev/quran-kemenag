@@ -1,7 +1,7 @@
 {
   "name": "quran-kemenag",
-  "version": "1.0.6",
-  "description": "",
+  "version": "1.0.7",
+  "description": "Al-Quran data from kemenag",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

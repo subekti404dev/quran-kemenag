@@ -39,7 +39,7 @@ class QuranKemenag {
       let pagination: any = {};
       if (options.verses_limit) pagination.limit = options.verses_limit;
       if (options.verses_offset) pagination.offset = options.verses_offset;
-      const verses = surah.verses.slice(
+      const verses = (surah.verses || []).slice(
         pagination.offset || 0,
         (pagination.offset || 0) + (pagination.limit || 300)
       );

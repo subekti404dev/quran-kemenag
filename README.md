@@ -1,6 +1,5 @@
 # Quran Kemenag
-
-Fetch Al-Quran data from kemenag (https://quran.kemenag.go.id)
+Al-Quran data from kemenag (https://quran.kemenag.go.id)
 
 ## How to Install
 
