@@ -1,0 +1,800 @@
+[
+   {
+      "surah_id": 1,
+      "surah_name": "Al-Fatihah",
+      "surah_name_arabic": " الفاتحة",
+      "surah_name_bahasa": "Pembukaan",
+      "surah_verse_count": 7
+   },
+   {
+      "surah_id": 2,
+      "surah_name": "Al-Baqarah",
+      "surah_name_arabic": " البقرة",
+      "surah_name_bahasa": "Sapi",
+      "surah_verse_count": 286
+   },
+   {
+      "surah_id": 3,
+      "surah_name": "Ali 'Imran",
+      "surah_name_arabic": " اٰل عمران",
+      "surah_name_bahasa": "Keluarga Imran",
+      "surah_verse_count": 200
+   },
+   {
+      "surah_id": 4,
+      "surah_name": "An-Nisa'",
+      "surah_name_arabic": " النساۤء",
+      "surah_name_bahasa": "Wanita",
+      "surah_verse_count": 176
+   },
+   {
+      "surah_id": 5,
+      "surah_name": "Al-Ma'idah",
+      "surah_name_arabic": " الماۤئدة",
+      "surah_name_bahasa": "Hidangan",
+      "surah_verse_count": 120
+   },
+   {
+      "surah_id": 6,
+      "surah_name": "Al-An'am",
+      "surah_name_arabic": " الانعام",
+      "surah_name_bahasa": "Binatang Ternak",
+      "surah_verse_count": 165
+   },
+   {
+      "surah_id": 7,
+      "surah_name": "Al-A'raf",
+      "surah_name_arabic": " الاعراف",
+      "surah_name_bahasa": "Tempat Tertinggi",
+      "surah_verse_count": 206
+   },
+   {
+      "surah_id": 8,
+      "surah_name": "Al-Anfal",
+      "surah_name_arabic": " الانفال",
+      "surah_name_bahasa": "Rampasan Perang",
+      "surah_verse_count": 75
+   },
+   {
+      "surah_id": 9,
+      "surah_name": "At-Taubah",
+      "surah_name_arabic": " التوبة",
+      "surah_name_bahasa": "Pengampunan",
+      "surah_verse_count": 129
+   },
+   {
+      "surah_id": 10,
+      "surah_name": "Yunus",
+      "surah_name_arabic": " يونس",
+      "surah_name_bahasa": "Yunus",
+      "surah_verse_count": 109
+   },
+   {
+      "surah_id": 11,
+      "surah_name": "Hud",
+      "surah_name_arabic": " هود",
+      "surah_name_bahasa": "Hud",
+      "surah_verse_count": 123
+   },
+   {
+      "surah_id": 12,
+      "surah_name": "Yusuf",
+      "surah_name_arabic": " يوسف",
+      "surah_name_bahasa": "Yusuf",
+      "surah_verse_count": 111
+   },
+   {
+      "surah_id": 13,
+      "surah_name": "Ar-Ra'd",
+      "surah_name_arabic": " الرّعد",
+      "surah_name_bahasa": "Guruh",
+      "surah_verse_count": 43
+   },
+   {
+      "surah_id": 14,
+      "surah_name": "Ibrahim",
+      "surah_name_arabic": " ابرٰهيم",
+      "surah_name_bahasa": "Ibrahim",
+      "surah_verse_count": 52
+   },
+   {
+      "surah_id": 15,
+      "surah_name": "Al-Hijr",
+      "surah_name_arabic": " الحجر",
+      "surah_name_bahasa": "Hijr",
+      "surah_verse_count": 99
+   },
+   {
+      "surah_id": 16,
+      "surah_name": "An-Nahl",
+      "surah_name_arabic": " النحل",
+      "surah_name_bahasa": "Lebah",
+      "surah_verse_count": 128
+   },
+   {
+      "surah_id": 17,
+      "surah_name": "Al-Isra'",
+      "surah_name_arabic": " الاسراۤء",
+      "surah_name_bahasa": "Memperjalankan Malam Hari",
+      "surah_verse_count": 111
+   },
+   {
+      "surah_id": 18,
+      "surah_name": "Al-Kahf",
+      "surah_name_arabic": " الكهف",
+      "surah_name_bahasa": "Goa",
+      "surah_verse_count": 110
+   },
+   {
+      "surah_id": 19,
+      "surah_name": "Maryam",
+      "surah_name_arabic": " مريم",
+      "surah_name_bahasa": "Maryam",
+      "surah_verse_count": 98
+   },
+   {
+      "surah_id": 20,
+      "surah_name": "Taha",
+      "surah_name_arabic": " طٰهٰ",
+      "surah_name_bahasa": "Taha",
+      "surah_verse_count": 135
+   },
+   {
+      "surah_id": 21,
+      "surah_name": "Al-Anbiya'",
+      "surah_name_arabic": " الانبياۤء",
+      "surah_name_bahasa": "Para Nabi",
+      "surah_verse_count": 112
+   },
+   {
+      "surah_id": 22,
+      "surah_name": "Al-Hajj",
+      "surah_name_arabic": " الحج",
+      "surah_name_bahasa": "Haji",
+      "surah_verse_count": 78
+   },
+   {
+      "surah_id": 23,
+      "surah_name": "Al-Mu'minun",
+      "surah_name_arabic": " المؤمنون",
+      "surah_name_bahasa": "Orang-Orang Mukmin",
+      "surah_verse_count": 118
+   },
+   {
+      "surah_id": 24,
+      "surah_name": "An-Nur",
+      "surah_name_arabic": " النّور",
+      "surah_name_bahasa": "Cahaya",
+      "surah_verse_count": 64
+   },
+   {
+      "surah_id": 25,
+      "surah_name": "Al-Furqan",
+      "surah_name_arabic": " الفرقان",
+      "surah_name_bahasa": "Pembeda",
+      "surah_verse_count": 77
+   },
+   {
+      "surah_id": 26,
+      "surah_name": "Asy-Syu'ara'",
+      "surah_name_arabic": " الشعراۤء",
+      "surah_name_bahasa": "Para Penyair",
+      "surah_verse_count": 227
+   },
+   {
+      "surah_id": 27,
+      "surah_name": "An-Naml",
+      "surah_name_arabic": " النمل",
+      "surah_name_bahasa": "Semut-semut",
+      "surah_verse_count": 93
+   },
+   {
+      "surah_id": 28,
+      "surah_name": "Al-Qasas",
+      "surah_name_arabic": " القصص",
+      "surah_name_bahasa": "Kisah-Kisah",
+      "surah_verse_count": 88
+   },
+   {
+      "surah_id": 29,
+      "surah_name": "Al-'Ankabut",
+      "surah_name_arabic": " العنكبوت",
+      "surah_name_bahasa": "Laba-Laba",
+      "surah_verse_count": 69
+   },
+   {
+      "surah_id": 30,
+      "surah_name": "Ar-Rum",
+      "surah_name_arabic": " الرّوم",
+      "surah_name_bahasa": "Romawi",
+      "surah_verse_count": 60
+   },
+   {
+      "surah_id": 31,
+      "surah_name": "Luqman",
+      "surah_name_arabic": " لقمٰن",
+      "surah_name_bahasa": "Luqman",
+      "surah_verse_count": 34
+   },
+   {
+      "surah_id": 32,
+      "surah_name": "As-Sajdah",
+      "surah_name_arabic": " السّجدة",
+      "surah_name_bahasa": "Sajdah",
+      "surah_verse_count": 30
+   },
+   {
+      "surah_id": 33,
+      "surah_name": "Al-Ahzab",
+      "surah_name_arabic": " الاحزاب",
+      "surah_name_bahasa": "Golongan Yang Bersekutu",
+      "surah_verse_count": 73
+   },
+   {
+      "surah_id": 34,
+      "surah_name": "Saba'",
+      "surah_name_arabic": " سبأ",
+      "surah_name_bahasa": "Saba'",
+      "surah_verse_count": 54
+   },
+   {
+      "surah_id": 35,
+      "surah_name": "Fatir",
+      "surah_name_arabic": " فاطر",
+      "surah_name_bahasa": "Maha Pencipta",
+      "surah_verse_count": 45
+   },
+   {
+      "surah_id": 36,
+      "surah_name": "Yasin",
+      "surah_name_arabic": " يٰسۤ",
+      "surah_name_bahasa": "Yasin",
+      "surah_verse_count": 83
+   },
+   {
+      "surah_id": 37,
+      "surah_name": "As-Saffat",
+      "surah_name_arabic": " الصّٰۤفّٰت",
+      "surah_name_bahasa": "Barisan-Barisan",
+      "surah_verse_count": 182
+   },
+   {
+      "surah_id": 38,
+      "surah_name": "Sad",
+      "surah_name_arabic": " ص",
+      "surah_name_bahasa": "Sad",
+      "surah_verse_count": 88
+   },
+   {
+      "surah_id": 39,
+      "surah_name": "Az-Zumar",
+      "surah_name_arabic": " الزمر",
+      "surah_name_bahasa": "Rombongan",
+      "surah_verse_count": 75
+   },
+   {
+      "surah_id": 40,
+      "surah_name": "Gafir",
+      "surah_name_arabic": " غافر",
+      "surah_name_bahasa": "Maha Pengampun",
+      "surah_verse_count": 85
+   },
+   {
+      "surah_id": 41,
+      "surah_name": "Fussilat",
+      "surah_name_arabic": " فصّلت",
+      "surah_name_bahasa": "Yang Dijelaskan",
+      "surah_verse_count": 54
+   },
+   {
+      "surah_id": 42,
+      "surah_name": "Asy-Syura",
+      "surah_name_arabic": " الشورى",
+      "surah_name_bahasa": "Musyawarah",
+      "surah_verse_count": 53
+   },
+   {
+      "surah_id": 43,
+      "surah_name": "Az-Zukhruf",
+      "surah_name_arabic": " الزخرف",
+      "surah_name_bahasa": "Perhiasan",
+      "surah_verse_count": 89
+   },
+   {
+      "surah_id": 44,
+      "surah_name": "Ad-Dukhan",
+      "surah_name_arabic": " الدخان",
+      "surah_name_bahasa": "Kabut",
+      "surah_verse_count": 59
+   },
+   {
+      "surah_id": 45,
+      "surah_name": "Al-Jasiyah",
+      "surah_name_arabic": " الجاثية",
+      "surah_name_bahasa": "Berlutut",
+      "surah_verse_count": 37
+   },
+   {
+      "surah_id": 46,
+      "surah_name": "Al-Ahqaf",
+      "surah_name_arabic": " الاحقاف",
+      "surah_name_bahasa": "Bukit Pasir",
+      "surah_verse_count": 35
+   },
+   {
+      "surah_id": 47,
+      "surah_name": "Muhammad",
+      "surah_name_arabic": " محمّد",
+      "surah_name_bahasa": "Muhammad",
+      "surah_verse_count": 38
+   },
+   {
+      "surah_id": 48,
+      "surah_name": "Al-Fath",
+      "surah_name_arabic": " الفتح",
+      "surah_name_bahasa": "Kemenangan",
+      "surah_verse_count": 29
+   },
+   {
+      "surah_id": 49,
+      "surah_name": "Al-Hujurat",
+      "surah_name_arabic": " الحجرٰت",
+      "surah_name_bahasa": "Kamar-Kamar",
+      "surah_verse_count": 18
+   },
+   {
+      "surah_id": 50,
+      "surah_name": "Qaf",
+      "surah_name_arabic": " ق",
+      "surah_name_bahasa": "Qaf",
+      "surah_verse_count": 45
+   },
+   {
+      "surah_id": 51,
+      "surah_name": "Az-Zariyat",
+      "surah_name_arabic": " الذّٰريٰت",
+      "surah_name_bahasa": "Angin yang Menerbangkan",
+      "surah_verse_count": 60
+   },
+   {
+      "surah_id": 52,
+      "surah_name": "At-Tur",
+      "surah_name_arabic": " الطور",
+      "surah_name_bahasa": "Bukit Tursina",
+      "surah_verse_count": 49
+   },
+   {
+      "surah_id": 53,
+      "surah_name": "An-Najm",
+      "surah_name_arabic": " النجم",
+      "surah_name_bahasa": "Bintang",
+      "surah_verse_count": 62
+   },
+   {
+      "surah_id": 54,
+      "surah_name": "Al-Qamar",
+      "surah_name_arabic": " القمر",
+      "surah_name_bahasa": "Bulan",
+      "surah_verse_count": 55
+   },
+   {
+      "surah_id": 55,
+      "surah_name": "Ar-Rahman",
+      "surah_name_arabic": " الرحمن",
+      "surah_name_bahasa": "Maha Pengasih",
+      "surah_verse_count": 78
+   },
+   {
+      "surah_id": 56,
+      "surah_name": "Al-Waqi'ah",
+      "surah_name_arabic": " الواقعة",
+      "surah_name_bahasa": "Hari Kiamat",
+      "surah_verse_count": 96
+   },
+   {
+      "surah_id": 57,
+      "surah_name": "Al-Hadid",
+      "surah_name_arabic": " الحديد",
+      "surah_name_bahasa": "Besi",
+      "surah_verse_count": 29
+   },
+   {
+      "surah_id": 58,
+      "surah_name": "Al-Mujadalah",
+      "surah_name_arabic": " المجادلة",
+      "surah_name_bahasa": "Gugatan",
+      "surah_verse_count": 22
+   },
+   {
+      "surah_id": 59,
+      "surah_name": "Al-Hasyr",
+      "surah_name_arabic": " الحشر",
+      "surah_name_bahasa": "Pengusiran",
+      "surah_verse_count": 24
+   },
+   {
+      "surah_id": 60,
+      "surah_name": "Al-Mumtahanah",
+      "surah_name_arabic": " الممتحنة",
+      "surah_name_bahasa": "Wanita Yang Diuji",
+      "surah_verse_count": 13
+   },
+   {
+      "surah_id": 61,
+      "surah_name": "As-Saff",
+      "surah_name_arabic": " الصّفّ",
+      "surah_name_bahasa": "Barisan",
+      "surah_verse_count": 14
+   },
+   {
+      "surah_id": 62,
+      "surah_name": "Al-Jumu'ah",
+      "surah_name_arabic": " الجمعة",
+      "surah_name_bahasa": "Jumat",
+      "surah_verse_count": 11
+   },
+   {
+      "surah_id": 63,
+      "surah_name": "Al-Munafiqun",
+      "surah_name_arabic": " المنٰفقون",
+      "surah_name_bahasa": "Orang-Orang Munafik",
+      "surah_verse_count": 11
+   },
+   {
+      "surah_id": 64,
+      "surah_name": "At-Tagabun",
+      "surah_name_arabic": " التغابن",
+      "surah_name_bahasa": "Pengungkapan Kesalahan",
+      "surah_verse_count": 18
+   },
+   {
+      "surah_id": 65,
+      "surah_name": "At-Talaq",
+      "surah_name_arabic": " الطلاق",
+      "surah_name_bahasa": "Talak",
+      "surah_verse_count": 12
+   },
+   {
+      "surah_id": 66,
+      "surah_name": "At-Tahrim",
+      "surah_name_arabic": " التحريم",
+      "surah_name_bahasa": "Pengharaman",
+      "surah_verse_count": 12
+   },
+   {
+      "surah_id": 67,
+      "surah_name": "Al-Mulk",
+      "surah_name_arabic": " الملك",
+      "surah_name_bahasa": "Kerajaan",
+      "surah_verse_count": 30
+   },
+   {
+      "surah_id": 68,
+      "surah_name": "Al-Qalam",
+      "surah_name_arabic": " القلم",
+      "surah_name_bahasa": "Pena",
+      "surah_verse_count": 52
+   },
+   {
+      "surah_id": 69,
+      "surah_name": "Al-Haqqah",
+      "surah_name_arabic": " الحاۤقّة",
+      "surah_name_bahasa": "Hari Kiamat",
+      "surah_verse_count": 52
+   },
+   {
+      "surah_id": 70,
+      "surah_name": "Al-Ma'arij",
+      "surah_name_arabic": " المعارج",
+      "surah_name_bahasa": "Tempat Naik",
+      "surah_verse_count": 44
+   },
+   {
+      "surah_id": 71,
+      "surah_name": "Nuh",
+      "surah_name_arabic": " نوح",
+      "surah_name_bahasa": "Nuh",
+      "surah_verse_count": 28
+   },
+   {
+      "surah_id": 72,
+      "surah_name": "Al-Jinn",
+      "surah_name_arabic": " الجن",
+      "surah_name_bahasa": "Jin",
+      "surah_verse_count": 28
+   },
+   {
+      "surah_id": 73,
+      "surah_name": "Al-Muzzammil",
+      "surah_name_arabic": " المزّمّل",
+      "surah_name_bahasa": "Orang Yang Berselimut",
+      "surah_verse_count": 20
+   },
+   {
+      "surah_id": 74,
+      "surah_name": "Al-Muddassir",
+      "surah_name_arabic": " المدّثّر",
+      "surah_name_bahasa": "Orang Yang Berkemul",
+      "surah_verse_count": 56
+   },
+   {
+      "surah_id": 75,
+      "surah_name": "Al-Qiyamah",
+      "surah_name_arabic": " القيٰمة",
+      "surah_name_bahasa": "Hari Kiamat",
+      "surah_verse_count": 40
+   },
+   {
+      "surah_id": 76,
+      "surah_name": "Al-Insan",
+      "surah_name_arabic": " الانسان",
+      "surah_name_bahasa": "Manusia",
+      "surah_verse_count": 31
+   },
+   {
+      "surah_id": 77,
+      "surah_name": "Al-Mursalat",
+      "surah_name_arabic": " المرسلٰت",
+      "surah_name_bahasa": "Malaikat Yang Diutus",
+      "surah_verse_count": 50
+   },
+   {
+      "surah_id": 78,
+      "surah_name": "An-Naba'",
+      "surah_name_arabic": " النبأ",
+      "surah_name_bahasa": "Berita Besar",
+      "surah_verse_count": 40
+   },
+   {
+      "surah_id": 79,
+      "surah_name": "An-Nazi'at",
+      "surah_name_arabic": " النّٰزعٰت",
+      "surah_name_bahasa": "Malaikat Yang Mencabut",
+      "surah_verse_count": 46
+   },
+   {
+      "surah_id": 80,
+      "surah_name": "'Abasa",
+      "surah_name_arabic": " عبس",
+      "surah_name_bahasa": "Bermuka Masam",
+      "surah_verse_count": 42
+   },
+   {
+      "surah_id": 81,
+      "surah_name": "At-Takwir",
+      "surah_name_arabic": " التكوير",
+      "surah_name_bahasa": "Penggulungan",
+      "surah_verse_count": 29
+   },
+   {
+      "surah_id": 82,
+      "surah_name": "Al-Infitar",
+      "surah_name_arabic": " الانفطار",
+      "surah_name_bahasa": "Terbelah",
+      "surah_verse_count": 19
+   },
+   {
+      "surah_id": 83,
+      "surah_name": "Al-Mutaffifin",
+      "surah_name_arabic": " المطفّفين",
+      "surah_name_bahasa": "Orang-Orang Curang",
+      "surah_verse_count": 36
+   },
+   {
+      "surah_id": 84,
+      "surah_name": "Al-Insyiqaq",
+      "surah_name_arabic": " الانشقاق",
+      "surah_name_bahasa": "Terbelah",
+      "surah_verse_count": 25
+   },
+   {
+      "surah_id": 85,
+      "surah_name": "Al-Buruj",
+      "surah_name_arabic": " البروج",
+      "surah_name_bahasa": "Gugusan Bintang",
+      "surah_verse_count": 22
+   },
+   {
+      "surah_id": 86,
+      "surah_name": "At-Tariq",
+      "surah_name_arabic": " الطارق",
+      "surah_name_bahasa": "Yang Datang Di Malam Hari",
+      "surah_verse_count": 17
+   },
+   {
+      "surah_id": 87,
+      "surah_name": "Al-A'la",
+      "surah_name_arabic": " الاعلى",
+      "surah_name_bahasa": "Maha Tinggi",
+      "surah_verse_count": 19
+   },
+   {
+      "surah_id": 88,
+      "surah_name": "Al-Gasyiyah",
+      "surah_name_arabic": " الغاشية",
+      "surah_name_bahasa": "Hari Kiamat",
+      "surah_verse_count": 26
+   },
+   {
+      "surah_id": 89,
+      "surah_name": "Al-Fajr",
+      "surah_name_arabic": " الفجر",
+      "surah_name_bahasa": "Fajar",
+      "surah_verse_count": 30
+   },
+   {
+      "surah_id": 90,
+      "surah_name": "Al-Balad",
+      "surah_name_arabic": " البلد",
+      "surah_name_bahasa": "Negeri",
+      "surah_verse_count": 20
+   },
+   {
+      "surah_id": 91,
+      "surah_name": "Asy-Syams",
+      "surah_name_arabic": " الشمس",
+      "surah_name_bahasa": "Matahari",
+      "surah_verse_count": 15
+   },
+   {
+      "surah_id": 92,
+      "surah_name": "Al-Lail",
+      "surah_name_arabic": " الّيل",
+      "surah_name_bahasa": "Malam",
+      "surah_verse_count": 21
+   },
+   {
+      "surah_id": 93,
+      "surah_name": "Ad-Duha",
+      "surah_name_arabic": " الضحى",
+      "surah_name_bahasa": "Duha",
+      "surah_verse_count": 11
+   },
+   {
+      "surah_id": 94,
+      "surah_name": "Asy-Syarh",
+      "surah_name_arabic": " الشرح",
+      "surah_name_bahasa": "Lapang",
+      "surah_verse_count": 8
+   },
+   {
+      "surah_id": 95,
+      "surah_name": "At-Tin",
+      "surah_name_arabic": " التين",
+      "surah_name_bahasa": "Buah Tin",
+      "surah_verse_count": 8
+   },
+   {
+      "surah_id": 96,
+      "surah_name": "Al-'Alaq",
+      "surah_name_arabic": " العلق",
+      "surah_name_bahasa": "Segumpal Darah",
+      "surah_verse_count": 19
+   },
+   {
+      "surah_id": 97,
+      "surah_name": "Al-Qadr",
+      "surah_name_arabic": " القدر",
+      "surah_name_bahasa": "Kemuliaan",
+      "surah_verse_count": 5
+   },
+   {
+      "surah_id": 98,
+      "surah_name": "Al-Bayyinah",
+      "surah_name_arabic": " البيّنة",
+      "surah_name_bahasa": "Bukti Nyata",
+      "surah_verse_count": 8
+   },
+   {
+      "surah_id": 99,
+      "surah_name": "Az-Zalzalah",
+      "surah_name_arabic": " الزلزلة",
+      "surah_name_bahasa": "Guncangan",
+      "surah_verse_count": 8
+   },
+   {
+      "surah_id": 100,
+      "surah_name": "Al-'Adiyat",
+      "surah_name_arabic": " العٰديٰت",
+      "surah_name_bahasa": "Kuda Yang Berlari Kencang",
+      "surah_verse_count": 11
+   },
+   {
+      "surah_id": 101,
+      "surah_name": "Al-Qari'ah",
+      "surah_name_arabic": " القارعة",
+      "surah_name_bahasa": "Hari Kiamat",
+      "surah_verse_count": 11
+   },
+   {
+      "surah_id": 102,
+      "surah_name": "At-Takasur",
+      "surah_name_arabic": " التكاثر",
+      "surah_name_bahasa": "Bermegah-Megahan",
+      "surah_verse_count": 8
+   },
+   {
+      "surah_id": 103,
+      "surah_name": "Al-'Asr",
+      "surah_name_arabic": " العصر",
+      "surah_name_bahasa": "Asar",
+      "surah_verse_count": 3
+   },
+   {
+      "surah_id": 104,
+      "surah_name": "Al-Humazah",
+      "surah_name_arabic": " الهمزة",
+      "surah_name_bahasa": "Pengumpat",
+      "surah_verse_count": 9
+   },
+   {
+      "surah_id": 105,
+      "surah_name": "Al-Fil",
+      "surah_name_arabic": " الفيل",
+      "surah_name_bahasa": "Gajah",
+      "surah_verse_count": 5
+   },
+   {
+      "surah_id": 106,
+      "surah_name": "Quraisy",
+      "surah_name_arabic": " قريش",
+      "surah_name_bahasa": "Quraisy",
+      "surah_verse_count": 4
+   },
+   {
+      "surah_id": 107,
+      "surah_name": "Al-Ma'un",
+      "surah_name_arabic": " الماعون",
+      "surah_name_bahasa": "Barang Yang Berguna",
+      "surah_verse_count": 7
+   },
+   {
+      "surah_id": 108,
+      "surah_name": "Al-Kausar",
+      "surah_name_arabic": " الكوثر",
+      "surah_name_bahasa": "Pemberian Yang Banyak",
+      "surah_verse_count": 3
+   },
+   {
+      "surah_id": 109,
+      "surah_name": "Al-Kafirun",
+      "surah_name_arabic": " الكٰفرون",
+      "surah_name_bahasa": "Orang-Orang kafir",
+      "surah_verse_count": 6
+   },
+   {
+      "surah_id": 110,
+      "surah_name": "An-Nasr",
+      "surah_name_arabic": " النصر",
+      "surah_name_bahasa": "Pertolongan",
+      "surah_verse_count": 3
+   },
+   {
+      "surah_id": 111,
+      "surah_name": "Al-Lahab",
+      "surah_name_arabic": " اللهب",
+      "surah_name_bahasa": "Api Yang Bergejolak",
+      "surah_verse_count": 5
+   },
+   {
+      "surah_id": 112,
+      "surah_name": "Al-Ikhlas",
+      "surah_name_arabic": " الاخلاص",
+      "surah_name_bahasa": "Ikhlas",
+      "surah_verse_count": 4
+   },
+   {
+      "surah_id": 113,
+      "surah_name": "Al-Falaq",
+      "surah_name_arabic": " الفلق",
+      "surah_name_bahasa": "Subuh",
+      "surah_verse_count": 5
+   },
+   {
+      "surah_id": 114,
+      "surah_name": "An-Nas",
+      "surah_name_arabic": " الناس",
+      "surah_name_bahasa": "Manusia",
+      "surah_verse_count": 6
+   }
+]

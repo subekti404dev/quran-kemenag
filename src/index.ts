@@ -1,22 +1,16 @@
 import { Surah } from "./intefaces";
-import quranJSON from "./quran.json";
-import _ from "lodash";
+import surahJSON from "./surah.json";
 
 class QuranKemenag {
   constructor() {}
 
   public async getListSurah(keyword: string = ""): Promise<Surah[]> {
-    return (quranJSON as any[])
-      .filter((surah) => {
-        return (
-          surah.surah_name.toLowerCase().includes(keyword.toLowerCase()) ||
-          surah.surah_name_bahasa.toLowerCase().includes(keyword.toLowerCase())
-        );
-      })
-      .map((surah) => {
-        delete surah.verses;
-        return surah;
-      });
+    return (surahJSON as any[]).filter((surah) => {
+      return (
+        surah.surah_name.toLowerCase().includes(keyword.toLowerCase()) ||
+        surah.surah_name_bahasa.toLowerCase().includes(keyword.toLowerCase())
+      );
+    });
   }
 
   public async getSurah(
@@ -31,8 +25,8 @@ class QuranKemenag {
       verses_offset: null,
     }
   ): Promise<Surah> {
-    const surah = (quranJSON as any)[surah_id - 1];
-    const verses: any[] = _.cloneDeep(surah.verses) || [];
+    const surah = (surahJSON as any)[surah_id - 1];
+    const verses: any[] = require(`./verses/${surah_id}.json`);
     if (!surah) {
       throw new Error("invalid surah_id, must be between 1-114");
     }
@@ -46,8 +40,7 @@ class QuranKemenag {
       if (options.verses_offset !== null)
         pagination.offset = options.verses_offset;
 
-      surah.verses = _.slice(
-        verses,
+      surah.verses = verses.slice(
         pagination.offset || 0,
         (pagination.offset || 0) + (pagination.limit || 300)
       );
