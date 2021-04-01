@@ -1,10 +1,11 @@
 {
   "name": "quran-kemenag",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Al-Quran data from kemenag",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
+    "create-verses-import": "node verses-import.script.js",
     "build": "tsc",
     "prepare": "npm run build"
   },

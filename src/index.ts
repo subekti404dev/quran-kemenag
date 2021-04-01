@@ -1,3 +1,4 @@
+import { getVerses } from "./get-verses";
 import { Surah } from "./intefaces";
 const surahJSON = require("../data/surah.json");
 
@@ -26,7 +27,7 @@ class QuranKemenag {
     }
   ): Promise<Surah> {
     const surah = (surahJSON as any)[surah_id - 1];
-    const verses: any[] = require(`../data/verses/${surah_id}.json`);
+    const verses: any[] = getVerses(surah_id)
     if (!surah) {
       throw new Error("invalid surah_id, must be between 1-114");
     }
