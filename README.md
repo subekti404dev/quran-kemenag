@@ -1,3 +1,5 @@
+[![view on npm](http://img.shields.io/npm/v/live-server.svg)](https://www.npmjs.org/package/quran-kemenag)
+[![npm module downloads per month](http://img.shields.io/npm/dm/live-server.svg)](https://www.npmjs.org/package/quran-kemenag)
 # Quran Kemenag
 Al-Quran data from kemenag (https://quran.kemenag.go.id)
 
